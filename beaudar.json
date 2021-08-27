@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://licoba.github.io"
+    "https://licoba.github.io",
+    "http://localhost:4000"
   ]
 }
